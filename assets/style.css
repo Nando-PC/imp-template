@@ -1,0 +1,39 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    color: blue;
+
+}
+.logoPref {
+    width: 150px;
+    height: 75px;
+
+}
+.logoHosp {
+    width: 75px;
+    height: 75px;
+
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color: blue;
+
+}
+
+ul li {
+    font-size: 16px;
+}
+
+ul ::hover {
+    
+    color: red;
+}
